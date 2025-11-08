@@ -1,0 +1,46 @@
+{
+  "studentName": "Vinicius Silveira",
+  "finalScore": 50,
+  "responses": [
+    {
+      "questionId": "Q1",
+      "choiceType": "correct"
+    },
+    {
+      "questionId": "Q2",
+      "choiceType": "wrong"
+    },
+    {
+      "questionId": "Q3",
+      "choiceType": "neutral"
+    },
+    {
+      "questionId": "Q4",
+      "choiceType": "wrong"
+    },
+    {
+      "questionId": "Q5",
+      "choiceType": "correct"
+    },
+    {
+      "questionId": "Q6",
+      "choiceType": "neutral"
+    },
+    {
+      "questionId": "Q7",
+      "choiceType": "correct"
+    },
+    {
+      "questionId": "Q8",
+      "choiceType": "correct"
+    },
+    {
+      "questionId": "Q9",
+      "choiceType": "correct"
+    },
+    {
+      "questionId": "Q10",
+      "choiceType": "wrong"
+    }
+  ]
+}
