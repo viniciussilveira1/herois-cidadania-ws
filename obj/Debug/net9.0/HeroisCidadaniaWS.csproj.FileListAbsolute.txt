@@ -25,3 +25,9 @@ C:\Users\vinir\HeroisCidadaniaWS\obj\Debug\net9.0\refint\HeroisCidadaniaWS.dll
 C:\Users\vinir\HeroisCidadaniaWS\obj\Debug\net9.0\HeroisCidadaniaWS.pdb
 C:\Users\vinir\HeroisCidadaniaWS\obj\Debug\net9.0\HeroisCidadaniaWS.genruntimeconfig.cache
 C:\Users\vinir\HeroisCidadaniaWS\obj\Debug\net9.0\ref\HeroisCidadaniaWS.dll
+C:\Users\vinir\HeroisCidadaniaWS\obj\Debug\net9.0\HeroisCidadaniaWS.sourcelink.json
+C:\Users\vinir\HeroisCidadaniaWS\bin\Debug\net9.0\data\20251108_220823_andre cristen.json
+C:\Users\vinir\HeroisCidadaniaWS\bin\Debug\net9.0\DotNetEnv.dll
+C:\Users\vinir\HeroisCidadaniaWS\bin\Debug\net9.0\Sprache.dll
+C:\Users\vinir\HeroisCidadaniaWS\obj\Debug\net9.0\HeroisCidadaniaWS.csproj.AssemblyReference.cache
+C:\Users\vinir\HeroisCidadaniaWS\obj\Debug\net9.0\HeroisCi.BBA8AF44.Up2Date

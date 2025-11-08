@@ -1,0 +1,44 @@
+# Build
+bin/
+obj/
+*.exe
+*.dll
+*.log
+
+# User-specific
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Environment and secrets
+.env
+.env.*
+*.key
+*.secret
+
+# Data directory (onde os JSONs são salvos)
+data/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Visual Studio / VS Code
+.vscode/
+.vs/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# Backup files
+*.bak
+*.tmp
+*.old
+
+# Publish / build outputs
+wwwroot/
+publish/
